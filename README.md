@@ -220,3 +220,11 @@ For detailed technical documentation, see [documentation/SYSTEM\_OVERVIEW.md](./
 ## License
 
 MIT
+
+## Quickstart Guide
+
+To run Orion Agent CLI locally:
+```bash
+npm install
+npm run dev
+```
